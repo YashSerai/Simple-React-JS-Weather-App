@@ -6,7 +6,7 @@ I created this small project for an article I wrote on Medium.
 
 [Medium: How To Plan And Organize A React Project - By Building A Weather App](https://medium.com/@konstantin.muenster/how-to-plan-and-organize-a-react-project-by-building-a-weather-app-95175b11bd01)
 
-[Live Demo](https://yashserai.github.io/simple-react-js-weather-app/)
+[Live Demo](https://yashserai.github.io/Simple-React-JS-Weather-App/)
 
 ![Screenshot React Weather App](screenshot.png)
 
